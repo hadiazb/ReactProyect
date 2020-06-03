@@ -58,4 +58,4 @@ module.exports = {
       filename: 'assets/[name].css',
     }),
   ],
-}
+};
