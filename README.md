@@ -1,4 +1,4 @@
-# Portafolio CrackCode.
+# PlatziVideo
 ## Contenido
 - Descripción del proyecto.
 - Tecnologías empleadas
@@ -32,3 +32,5 @@ Dentro de las tecnologías empleadas en CSS, se ha usado Grid Layout y FlexBox p
 - Dev: Hugo Andres Diaz Bernal
 - WhatSapp: (+57)-311-268-1981
 - email: hugoandresdiazbernal@gmail.com
+
+![LogoUnoNegro](https://user-images.githubusercontent.com/57742000/84524659-efbadd80-ac9f-11ea-8279-25afb46b1bb7.png)
